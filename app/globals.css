@@ -1,1 +1,21 @@
 @import "tailwindcss";
+
+@theme {
+  /* Background */
+  --color-background: hsl(0 0% 100%);
+  --color-foreground: hsl(222 47% 11%);
+
+  /* Primary (Roofing Blue) */
+  --color-primary: hsl(220 72% 28%);
+  --color-primary-foreground: hsl(0 0% 100%);
+
+  /* Secondary (Gold Accent) */
+  --color-secondary: hsl(43 74% 52%);
+  --color-secondary-foreground: hsl(222 47% 11%);
+
+  /* UI */
+  --color-border: hsl(214 32% 91%);
+  --color-muted: hsl(210 40% 96%);
+
+  --radius-lg: 14px;
+}
