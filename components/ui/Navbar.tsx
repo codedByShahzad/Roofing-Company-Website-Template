@@ -113,7 +113,7 @@ export default function Navbar() {
     <>
       {/* ✅ FIXED NAVBAR */}
       <header className="fixed top-0 left-0 right-0 z-50 w-full border-b border-secondary/10 bg-white/80 backdrop-blur">
-        <div className="mx-auto max-w-380 pr-2 lg:pr-auto lg:px-4">
+        <div className="mx-auto max-w-400 pr-2 lg:pr-auto lg:px-4">
           <div className="flex h-16 items-center justify-between gap-3">
             {/* Left: Brand */}
             <Link href="/" className="flex items-center ">
