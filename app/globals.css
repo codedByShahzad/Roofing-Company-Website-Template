@@ -5,13 +5,22 @@
   --color-background: hsl(0 0% 100%);
   --color-foreground: hsl(222 47% 11%);
 
-  /* Primary (Roofing Blue) */
-  --color-primary: hsl(220 72% 28%);
-  --color-primary-foreground: hsl(0 0% 100%);
+  /* Primary (Soft Green) */
+  --color-primary: #BCE097;
+  --color-primary-foreground: #1D2B30;
 
-  /* Secondary (Gold Accent) */
-  --color-secondary: hsl(43 74% 52%);
-  --color-secondary-foreground: hsl(222 47% 11%);
+  /* Primary Light */
+  --color-primaryLight: #F8FAF7;
+
+  /* Secondary (Dark Slate) */
+  --color-secondary: #1D2B30;
+  --color-secondary-foreground: #FFFFFF;
+
+  /* Secondary Light */
+  --color-secondaryLight: #2A373D;
+
+  /* Card Background */
+  --color-cardBg: #E8EDE4;
 
   /* UI */
   --color-border: hsl(214 32% 91%);
